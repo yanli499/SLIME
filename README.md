@@ -1,2 +1,2 @@
 # SLIME
-Coded in Verilog for the DE1 board
+Game coded in Verilog for the DE1 board
